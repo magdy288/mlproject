@@ -1,0 +1,4 @@
+[2024-02-11 21:11:51,529] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-02-11 21:11:51,530] 96 werkzeug - INFO -  * Debugger PIN: 640-327-469
+[2024-02-11 21:11:59,802] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 21:11:59] "GET /predictdata HTTP/1.1" 200 -
+[2024-02-11 21:12:03,188] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 21:12:03] "POST /predictdata HTTP/1.1" 200 -

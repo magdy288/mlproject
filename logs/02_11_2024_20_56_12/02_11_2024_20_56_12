@@ -1,0 +1,12 @@
+[2024-02-11 20:56:13,496] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-02-11 20:56:13,497] 96 werkzeug - INFO -  * Debugger PIN: 640-327-469
+[2024-02-11 20:58:00,042] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:00] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2024-02-11 20:58:00,109] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:00] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-02-11 20:58:00,110] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:00] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-02-11 20:58:00,147] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:00] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-02-11 20:58:05,395] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:05] "GET /predictdata HTTP/1.1" 200 -
+[2024-02-11 20:58:08,000] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:08] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2024-02-11 20:58:08,071] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-02-11 20:58:08,075] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-02-11 20:58:08,127] 96 werkzeug - INFO - 127.0.0.1 - - [11/Feb/2024 20:58:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-02-11 21:02:12,329] 96 werkzeug - INFO -  * Detected change in '/home/dab3/ml-base/mlproject/app.py', reloading
